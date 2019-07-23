@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "plugins": {
+    
+  },
+  "sitemapLocation": "sitemap.json"
+}

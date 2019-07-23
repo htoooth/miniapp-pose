@@ -1,0 +1,8 @@
+node_modules
+*.map
+*.d.ts
+pages/**/*.js
+
+posenet/**/*.js
+app/**/*.js
+utils/*.js
